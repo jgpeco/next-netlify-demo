@@ -10,6 +10,8 @@ cats:
     name: Grumpy cat (Tardar Sauce)
   - description: 'Um gatão, miaaau!'
     name: Peco
+  - description: A gata mais linda do universo
+    name: Malena
 ---
 
 Welcome to my awesome page about cats of the internet.
